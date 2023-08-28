@@ -1,0 +1,31 @@
+D:\plavuma\GestionDesBons\GestionDesBons\bin\Debug\GestionDesBons.exe.config
+D:\plavuma\GestionDesBons\GestionDesBons\bin\Debug\GestionDesBons.exe
+D:\plavuma\GestionDesBons\GestionDesBons\bin\Debug\GestionDesBons.pdb
+D:\plavuma\GestionDesBons\GestionDesBons\bin\Debug\Bunifu_UI_v1.52.dll
+D:\plavuma\GestionDesBons\GestionDesBons\obj\Debug\GestionDesBons.csprojResolveAssemblyReference.cache
+D:\plavuma\GestionDesBons\GestionDesBons\obj\Debug\GestionDesBons.Form1.resources
+D:\plavuma\GestionDesBons\GestionDesBons\obj\Debug\GestionDesBons.Properties.Resources.resources
+D:\plavuma\GestionDesBons\GestionDesBons\obj\Debug\GestionDesBons.csproj.GenerateResource.Cache
+D:\plavuma\GestionDesBons\GestionDesBons\obj\Debug\GestionDesBons.exe
+D:\plavuma\GestionDesBons\GestionDesBons\obj\Debug\GestionDesBons.pdb
+D:\plavuma\GestionDesBons\GestionDesBons\obj\Debug\GestionDesBons.AgentsUc.resources
+D:\plavuma\GestionDesBons\GestionDesBons\obj\Debug\GestionDesBons.AccueilUc.resources
+D:\plavuma\GestionDesBons\GestionDesBons\obj\Debug\GestionDesBons.ServicesAffiliationUc.resources
+D:\plavuma\GestionDesBons\GestionDesBons\obj\Debug\GestionDesBons.StructuresEtFacturesUc.resources
+D:\plavuma\GestionDesBons\GestionDesBons\obj\Debug\GestionDesBons.BonUc.resources
+D:\plavuma\GestionDesBons\GestionDesBons\obj\Debug\GestionDesBons.RapportsUc.resources
+D:\plavuma\GestionDesBons\GestionDesBons\obj\Debug\RdlCompile.cache
+D:\plavuma\GestionDesBons\GestionDesBons\obj\Debug\RdlCompile.compiled
+D:\plavuma\GestionDesBons\GestionDesBons\obj\Debug\GestionDesBons.FrmBons.resources
+D:\plavuma\GestionDesBons\GestionDesBons\obj\Debug\GestionDesBons.FrmRapportsParDates.resources
+D:\plavuma\GestionDesBons\GestionDesBons\obj\Debug\GestionDesBons.FrmRapportsStructures.resources
+D:\plavuma\GestionDesBons\GestionDesBons\obj\Debug\GestionDesBons.Login.resources
+C:\Users\ISE MIREMBE PIERRE C\Desktop\BONS\GestionDesBons\bin\Debug\GestionDesBons.exe.config
+C:\Users\ISE MIREMBE PIERRE C\Desktop\BONS\GestionDesBons\obj\Debug\GestionDesBons.exe
+C:\Users\ISE MIREMBE PIERRE C\Desktop\BONS\GestionDesBons\obj\Debug\GestionDesBons.pdb
+F:\BONS\GestionDesBons\bin\Debug\GestionDesBons.exe.config
+F:\BONS\GestionDesBons\obj\Debug\GestionDesBons.exe
+F:\BONS\GestionDesBons\obj\Debug\GestionDesBons.pdb
+E:\C#Projects\BONS\GestionDesBons\bin\Debug\GestionDesBons.exe.config
+E:\C#Projects\BONS\GestionDesBons\obj\Debug\GestionDesBons.exe
+E:\C#Projects\BONS\GestionDesBons\obj\Debug\GestionDesBons.pdb
